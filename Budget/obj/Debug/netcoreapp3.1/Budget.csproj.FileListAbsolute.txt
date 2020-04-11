@@ -1,0 +1,13 @@
+C:\Users\123\source\repos\Budget\Budget\bin\Debug\netcoreapp3.1\Budget.exe
+C:\Users\123\source\repos\Budget\Budget\bin\Debug\netcoreapp3.1\Budget.deps.json
+C:\Users\123\source\repos\Budget\Budget\bin\Debug\netcoreapp3.1\Budget.runtimeconfig.json
+C:\Users\123\source\repos\Budget\Budget\bin\Debug\netcoreapp3.1\Budget.runtimeconfig.dev.json
+C:\Users\123\source\repos\Budget\Budget\bin\Debug\netcoreapp3.1\Budget.dll
+C:\Users\123\source\repos\Budget\Budget\bin\Debug\netcoreapp3.1\Budget.pdb
+C:\Users\123\source\repos\Budget\Budget\obj\Debug\netcoreapp3.1\Budget.csprojAssemblyReference.cache
+C:\Users\123\source\repos\Budget\Budget\obj\Debug\netcoreapp3.1\Budget.csproj.CoreCompileInputs.cache
+C:\Users\123\source\repos\Budget\Budget\obj\Debug\netcoreapp3.1\Budget.AssemblyInfoInputs.cache
+C:\Users\123\source\repos\Budget\Budget\obj\Debug\netcoreapp3.1\Budget.AssemblyInfo.cs
+C:\Users\123\source\repos\Budget\Budget\obj\Debug\netcoreapp3.1\Budget.dll
+C:\Users\123\source\repos\Budget\Budget\obj\Debug\netcoreapp3.1\Budget.pdb
+C:\Users\123\source\repos\Budget\Budget\obj\Debug\netcoreapp3.1\Budget.genruntimeconfig.cache
